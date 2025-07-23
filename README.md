@@ -1,4 +1,4 @@
-this is for the advanced problem 
+This is for the advanced problem 
 News App with Search and API Integration
 •	Features:
 o	Fetch news from a public API like NewsAPI.
